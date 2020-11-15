@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="splash_title">Notes</string>
+    <string name="toolbar_title">Notes</string>
+    <string name="main_drawer_item_1">Secure your notes with the same phone lock setup on your device</string>
+    <string name="note_title_hint">Give Title</string>
+    <string name="note_content_hint">Write some note</string>
+    <string name="popup_delete_title">Delete This Note?</string>
+    <string name="popup_delete_cancel">Cancel</string>
+    <string name="popup_delete_submit">Delete</string>
+    <string name="search_edit_hint">Search here…</string>
+    <string name="note_list_empty">No Result</string>
+</resources>
